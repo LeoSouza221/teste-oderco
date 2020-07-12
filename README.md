@@ -1,24 +1,18 @@
 # imposto-front
-
-## Project setup
+Parte visual
+## Instalar dependecias
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Rodar o projeto
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
+### Erros de lint ao compilar
 ```
-npm run lint
+npm run lint --fix
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Qualquer duvida estou a disposicao
